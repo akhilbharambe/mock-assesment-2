@@ -1,0 +1,84 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "department": "Tech",
+      "salary": 60000
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane.smith@example.com",
+      "department": "Marketing",
+      "salary": 55000
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "email": "bob.johnson@example.com",
+      "department": "Operations",
+      "salary": "4000",
+      "id": 3
+    },
+    {
+      "firstName": "Akhil",
+      "lastName": "Bharambe",
+      "email": "akhilbharambe444@gmail.com",
+      "department": "Operations",
+      "salary": "149994",
+      "id": 4
+    },
+    {
+      "firstName": "Akhil",
+      "lastName": "Bharambe",
+      "email": "akhilbharambe444@gmail.com",
+      "department": "Operations",
+      "salary": "149994",
+      "id": 5
+    },
+    {
+      "firstName": "Akhil",
+      "lastName": "Bharambe",
+      "email": "akhilbharambe444@gmail.com",
+      "department": "Marketing",
+      "salary": "44",
+      "id": 6
+    },
+    {
+      "firstName": "Akhil",
+      "lastName": "Bharambe",
+      "email": "akhilbharambe444@gmail.com",
+      "department": "Marketing",
+      "salary": "444",
+      "id": 7
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "email": "bob.johnson@example.com",
+      "department": "Tech",
+      "salary": "548452",
+      "id": 8
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "email": "bob.johnson@example.com",
+      "department": "Tech",
+      "salary": "458777",
+      "id": 9
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "email": "bob.johnson@example.com",
+      "department": "Tech",
+      "salary": "458777",
+      "id": 10
+    }
+  ]
+}
